@@ -27,12 +27,12 @@ Idioma:
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40"/>
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
-
+- <img src="https://icons8.com/icon/tGvHBPJaKqEd/javascript" width="40" height="40"/>
 ### Tecnologia que eu domino mais
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40"/>
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>  
-<img src="https://www.flaticon.com/br/icone-gratis/js_5968292" width="40" height="40"/>
+
 
 <div>
 <a href="https://github.com/Patrickcovre">
