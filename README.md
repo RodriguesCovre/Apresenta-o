@@ -8,7 +8,7 @@ Curso:
 
 Idioma:
 
-- 📖Inglês Intermediário, por cursos e aplicativos na internet, fora a base escolar.
+- 📖Inglês Intermediário, por cursos e aplicativos na internet.
 
 - 📖Base em Espanhol, estudada por três anos, do 6º ao 8º do Ensino Fundamental.
 
@@ -16,7 +16,7 @@ Idioma:
 
 
 - 🌱 Atualmente estou aprendendo Banco de Dados, Modelagem de Sistemas e Programação de Aplicativos.
-- 🤔 Estou procurando um estagio na area de programação.
+- 🤔 Estou procurando um estagio ou emprego na area de programação.
 - 📫 Como entrar em contato comigo:Patrickcovrerodrigues@gmail.com
 - 🏠 Moro na Palhoça (SC).
 - 👨‍🎓 Estudo no Senai de São José (SC).
