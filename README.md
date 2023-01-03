@@ -19,7 +19,7 @@ Idioma:
 - 🤔 Estou procurando um estagio ou emprego na area de programação.
 - 📫 Como entrar em contato comigo:Patrickcovrerodrigues@gmail.com
 - 🏠 Moro na Palhoça (SC).
-- 👨‍🎓 Estudo no Senai de São José (SC).
+- 👨‍🎓 Formado no ensino médio e Tec.ADS
 
 ### Que eu aprendi no senai
    
