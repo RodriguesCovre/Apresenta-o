@@ -40,5 +40,5 @@ Idioma:
     <li>
 <a href = "mailto:patrickcovrerodrigues@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></li>
  <li><a href="https://www.twitch.tv/patrickcovre" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a></li>
-   <li><a href="https://www.linkedin.com/in/patrick-covre-908547255/" target="_blank"><img src="https://blog.runrun.it/wp-content/uploads/2016/04/1b4b8fa6-00c0-4985-8de3-62cc5445ff12.png"></a></li style width="50px">
+   <li><a href="https://www.linkedin.com/in/patrick-covre-908547255/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg"></a></li style width="50px">
   </ul>
