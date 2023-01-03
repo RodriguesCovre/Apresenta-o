@@ -1,7 +1,7 @@
 # Hello 
-Meu primeiro repositório. 
 
-Atualmente estou cursando Desenvolvimento de Sistema, estou desenvolvendo aplicativos no android studio(Programação de Aplicativos), Banco de Dados e modelagem de Sistemas(diagrams Er e uml).
+Prazer, me chamo Patrick tenho atualmente 20 anos de idade.
+No momento estou cursando pela empresa udemy, JS, HTML5, CSS3, PHP, Python, tenho o ensino medio completo junto com tecnico em desenvolvimento de sistemas pelo Senai, e pretendo futuramente iniciar a faculdade de ciências da computação, engenharia de redes ou ADS.
 
 Curso: 
 - 🖥️Analisa de Desenvolvimento de Sistema(Tecnico).
@@ -15,7 +15,7 @@ Idioma:
 - 📖Grande dominação da Língua Portuguesa, tendo familiaridade com regras de escrita (como vírgula, crase etc).
 
 
-- 🌱 Atualmente estou aprendendo Banco de Dados, Modelagem de Sistemas e Programação de Aplicativos.
+
 - 🤔 Estou procurando um estagio ou emprego na area de programação.
 - 📫 Como entrar em contato comigo:Patrickcovrerodrigues@gmail.com
 - 🏠 Moro na Palhoça (SC).
@@ -33,10 +33,7 @@ Idioma:
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
               
           
-### Tecnologia que eu Uso
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>        
+   
 
 
 <div>
