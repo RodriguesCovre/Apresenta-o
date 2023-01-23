@@ -1,7 +1,7 @@
 # Hello 
 
 Prazer, me chamo Patrick tenho atualmente 20 anos de idade.
-No momento estou cursando pela empresa udemy, JS, HTML5, CSS3, PHP, Python, Django, Selenium, Regexp, Testes e TDD, POO, Design Patterns GoF, algoritmos,  tenho o ensino medio completo junto com tecnico em desenvolvimento de sistemas pelo Senai, e pretendo futuramente iniciar a faculdade de ciências da computação, engenharia de redes ou ADS.
+No momento estou cursando pela empresa udemy, JS, HTML5, CSS3, PHP, Python, Django, Selenium, Regexp, Testes e TDD, POO, Design Patterns GoF, algoritmos,  tenho o ensino medio completo junto com tecnico em desenvolvimento de sistemas pelo Senai, e estou preste a iniciar a faculdade de Analise de desenvolvimento de sistemas (ADS).
 
 Curso: 
 - 🖥️Analisa de Desenvolvimento de Sistema(Tecnico).
