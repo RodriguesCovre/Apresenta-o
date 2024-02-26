@@ -1,10 +1,13 @@
 # Hello 
 
-Prazer, me chamo Patrick tenho atualmente 20 anos de idade.
-No momento estou cursando pela empresa udemy, JS, HTML5, CSS3, PHP, Python, Django, Selenium, Regexp, Testes e TDD, POO, Design Patterns GoF, algoritmos,  tenho o ensino medio completo junto com tecnico em desenvolvimento de sistemas pelo Senai, e estou preste a iniciar a faculdade de Analise de desenvolvimento de sistemas (ADS).
-
+Prazer, me chamo Patrick tenho atualmente 21 anos de idade.
+Tenho o ensino medio completo junto com tecnico em desenvolvimento de sistemas pelo Senai.
+Estou na terceira fase do curso Análise de desenvolvimento de sistemas (Faculdade Unisenai).
 Curso: 
 - 🖥Desenvolvimento de Sistema(Tecnico).
+- Oracle PL/SQL
+- Python
+- Pentest
 
 Idioma:
 
@@ -12,26 +15,15 @@ Idioma:
 
 - 📖Base em Espanhol, estudada por três anos, do 6º ao 8º do Ensino Fundamental.
 
-- 📖Grande dominação da Língua Portuguesa, tendo familiaridade com regras de escrita (como vírgula, crase etc).
+- 📖Portugues/Nativo, tendo familiaridade com regras de escrita (como vírgula, crase etc).
 
 
 
-- 🤔 Estou procurando um estagio ou emprego na area de programação.
-- 📫 Como entrar em contato comigo:Patrickcovrerodrigues@gmail.com
+- 🤔 Estou trabalhando a 1 ano com DBA PL/SQL.
+- 📫 Como entrar em contato comigo:Patrickcovredev@gmail.com
 - 🏠 Moro na Palhoça (SC).
 - 👨‍🎓 Formado no ensino médio e Tec.Desenvolvimento de sistemas
 
-### Que eu aprendi no senai
-   
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40"/>
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>          
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>    
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-              
 
 ### Redes Sociais
   <ul>
