@@ -7,7 +7,7 @@ Curso:
 - 🖥Desenvolvimento de Sistema(Tecnico).
 - Oracle PL/SQL
 - Python
-- Pentest
+- Ethical hacker
 
 Idioma:
 
