@@ -24,7 +24,7 @@ Idioma:
 - 🏠 Moro na Palhoça (SC).
 - 👨‍🎓 Formado no ensino médio e Tec.Desenvolvimento de sistemas
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RodriguesCovre_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RodriguesCovre&show_icons=true&theme=transparent)
 
 ### Redes Sociais
   <ul>
