@@ -24,6 +24,7 @@ Idioma:
 - 🏠 Moro na Palhoça (SC).
 - 👨‍🎓 Formado no ensino médio e Tec.Desenvolvimento de sistemas
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
 ### Redes Sociais
   <ul>
@@ -33,3 +34,4 @@ Idioma:
 <a href = "mailto:patrickcovrerodrigues@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></li>
    <li><a href="https://www.linkedin.com/in/patrick-covre-908547255/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg"></a></li>
   </ul>
+
