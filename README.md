@@ -1,17 +1,35 @@
-# Hello 
+Oi! Meu nome é Patrick Covre, vou compartilhar um pouco sobre minha jornada profissional até agora.
 
-Prazer, me chamo Patrick tenho atualmente 21 anos de idade.
-Tenho o ensino medio completo junto com tecnico em desenvolvimento de sistemas pelo Senai.
-Estou na terceira fase do curso Análise de desenvolvimento de sistemas (Faculdade Unisenai).
+Com um ano de experiência em desenvolvimento, em PL/SQL e Python. Durante esse tempo, tive a oportunidade de desenvolver projetos desafiadores como relatórios e automação e colaborar com a equipe talentosas, desenvolvendo soluções eficientes e robustas.
+
+Agora estou trabalhando como Full Stack em Vue3 | Nuxt3 | Typescript | Python | Tailwind 
+
+Minhas Habilidades:
+Typescript 
+Vue.js 
+Nuxt3
+Python
+PL/SQL
+Sistemas de controle de versão - Git e Github.
+HTML5
+CSS3 - Bootstrap - Tailwind
+Cloudflare - Redes - Servidores
+
 Curso: 
-- 🖥Desenvolvimento de Sistema(Tecnico).
-- Oracle PL/SQL
-- Python
+- 🖥Desenvolvimento de Sistema(Tecnico),
+- Análise de desenvolvimento de sistemas(Superior),
+- Oracle PL/SQL,
+- Python,
+- Vue3,
+- Nuxt,
+- Typescript
+- Redes
+- Linux
 - Ethical hacker
 
 Idioma:
 
-- 📖Inglês Intermediário, por cursos e aplicativos na internet.
+- 📖Inglês.
 
 - 📖Base em Espanhol, estudada por três anos, do 6º ao 8º do Ensino Fundamental.
 
@@ -19,10 +37,9 @@ Idioma:
 
 
 
-- 🤔 Estou trabalhando a 1 ano com DBA PL/SQL.
+- 🤔 Trabalhei a 1 ano e 5 meses com DBA PL/SQL e Python.
 - 📫 Como entrar em contato comigo:Patrickcovredev@gmail.com
 - 🏠 Moro na Palhoça (SC).
-- 👨‍🎓 Formado no ensino médio e Tec.Desenvolvimento de sistemas
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RodriguesCovre&show_icons=true&theme=transparent)
 
